@@ -1,6 +1,13 @@
-# Hey👋! I'm Khushi Jaiswal
-### "Future software dev with a thing for turning data into magic! ✨"
+<h1 align="center">Hi 👋, I'm Khushi</h1>
+<h3 align="center">"Building software dreams, powered by data magic! 💻✨"</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-4&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-4" /> </p>
+
+- 🌱 **I’m currently Learning** "*Advanced software development techniques and best practices. Data visualization and analytics to uncover patterns and insights. Open-source projects to enhance collaboration and learning."*
+
+- 📫 **How to reach me**: *khushijaiswal27@outlook.com*
+
+- - 📄 Know about my experiences: "https://drive.google.com/file/d/1EGtwWdz6FlTQD9KCYgkw1BlOJWsbBhxh/view?usp=sharing"
 
 ## 🌐 Socials:
 (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khushi Jaiswal) 
