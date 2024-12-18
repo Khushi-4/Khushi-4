@@ -1,5 +1,5 @@
 # Hey👋! I'm Khushi Jaiswal
-"Future software dev with a thing for turning data into magic! ✨"
+## "Future software dev with a thing for turning data into magic! ✨"
 
 
 ## 🌐 Socials:
