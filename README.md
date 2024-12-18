@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-4&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-4" /> </p>
 
-- 🌱 **I’m currently Learning:** "Advanced software development techniques and best practices. Data visualization and analytics to uncover patterns and insights. Open-source projects to enhance collaboration and learning."
+- 🔭 I’m currently working on Data Analysis and Software development.
+  
+- 🌱 **I’m currently Learning:** "Power BI."
 
 - 📫 **How to reach me:** khushijaiswal27@outlook.com
 
