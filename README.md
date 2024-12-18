@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-4&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-4" /> </p>
 
-- 🔭 I’m currently working on Data Analysis and Software development.
+- 🔭 **I’m currently working on Data Analysis and Software development.**
   
-- 🌱 **I’m currently Learning:** "Power BI."
+- 🌱 **I’m currently Learning:** Power BI.
 
 - 📫 **How to reach me:** khushijaiswal27@outlook.com
 
-- 📄 **Know about my experiences:** "About"
+- 📄 **Know about my experiences:** [About](https://drive.google.com/file/d/1EGtwWdz6FlTQD9KCYgkw1BlOJWsbBhxh/view?usp=drive_link)
 
-- ⚡ **Fun fact**: I thrive on solving challenges with creativity and logic. Always excited to learn new technologies and improve my skill set.
+
+- ⚡ **Fun fact**: I can turn coffee ☕ and code 💻 into pure magic ✨, but don’t ask me to choose between them—it’s a package deal!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
