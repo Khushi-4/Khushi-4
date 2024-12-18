@@ -9,7 +9,7 @@
 
 - 📫 **How to reach me:** khushijaiswal27@outlook.com
 
-- 📄 **Know about my experiences:** "https://drive.google.com/file/d/1EGtwWdz6FlTQD9KCYgkw1BlOJWsbBhxh/view?usp=sharing"
+- 📄 **Know about my experiences:** "About"
 
 - ⚡ **Fun fact**: I thrive on solving challenges with creativity and logic. Always excited to learn new technologies and improve my skill set.
 
