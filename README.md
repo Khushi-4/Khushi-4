@@ -9,7 +9,7 @@
 
 - 📫 **How to reach me:** khushijaiswal27@outlook.com
 
-- 📄 **Know about my experiences:** [About](https://drive.google.com/file/d/1EGtwWdz6FlTQD9KCYgkw1BlOJWsbBhxh/view?usp=drive_link)
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1EGtwWdz6FlTQD9KCYgkw1BlOJWsbBhxh/view?usp=drive_link)
 
 
 - ⚡ **Fun fact**: I can turn coffee ☕ and code 💻 into pure magic ✨, but don’t ask me to choose between them—it’s a package deal!
