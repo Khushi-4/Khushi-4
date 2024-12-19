@@ -5,7 +5,8 @@
 <h1 align="center">Hey👋,I'm Khushi Jaiswal</h1>
 <h3 align="center">"Building software dreams, powered by data magic! 💻✨"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-4&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-4" /> </p>
+<!-- Adding the GIF aligned to the right -->
+<img align="right" src="https://github.com/Khushi-4/Khushi-4/raw/main/computer-frustrated.gif" style="border-radius: 15;" width="150" alt="Frustrated Tech GIF" />
 
 - 🔭 **I’m currently working on Data Analysis and Software development.**
   
