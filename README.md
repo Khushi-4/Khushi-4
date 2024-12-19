@@ -128,5 +128,5 @@
 [![](https://visitcount.itsvg.in/api?id=Khushi-4&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://raw.githubusercontent.com/your-username/your-repository-name/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Khushi-4/Khushi-4/output/snake.svg)
 
