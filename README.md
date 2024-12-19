@@ -3,10 +3,12 @@
 </p>
 
 <h1 align="center">Hey👋,I'm Khushi Jaiswal</h1>
-<h3 align="center">"Building software dreams, powered by data magic! 💻✨"</h3>
 
 <!-- Adding the GIF aligned to the right -->
-<img align="right" src="https://github.com/Khushi-4/Khushi-4/raw/main/computer-frustrated.gif" style="border-radius: 15;" width="150" alt="Frustrated Tech GIF" />
+<img align="right" src="https://github.com/Khushi-4/Khushi-4/blob/main/cute.gif" width="150" alt="Frustrated Tech GIF" />
+
+<h3 align="center">"Building software dreams, powered by data magic! 💻✨"</h3>
+
 
 - 🔭 **I’m currently working on Data Analysis and Software development.**
   
@@ -102,7 +104,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Khushi-4&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Khushi-4&theme=default_repocard&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-4&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -110,6 +112,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Khushi-4&theme=default_repocard&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khushi-4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
