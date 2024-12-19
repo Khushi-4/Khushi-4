@@ -50,6 +50,9 @@
   </a>
 </p>
 
+ <img align="right" src="https://github.com/Khushi-4/Khushi-4/blob/main/astro-bot.gif" style="border-radius: 15;" width="150" alt="Frustrated Tech GIF" />
+
+
 <!-- Frontend -->
 <h4>Frontend</h4>
 <p align="left">
