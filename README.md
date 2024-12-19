@@ -5,7 +5,7 @@
 
 - 🔭 **I’m currently working on Data Analysis and Software development.**
   
-- 🌱 **I’m currently Learning:** Power BI.
+- 🌱 **I’m currently Learning:** Power BI and DSA.
 
 - 📫 **How to reach me:** khushijaiswal27@outlook.com
 
