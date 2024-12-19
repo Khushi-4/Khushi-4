@@ -114,6 +114,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khushi-4&theme=default_repocard&hide_border=false)<br/>
+<img align="right" src="https://github.com/Khushi-4/Khushi-4/blob/main/coffee-is-love.gif" width="150" alt="Frustrated Tech GIF" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khushi-4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
