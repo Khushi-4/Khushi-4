@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Tech GIF" width="100%"/>
+</p>
+
 <h1 align="center">Hey👋,I'm Khushi Jaiswal</h1>
 <h3 align="center">"Building software dreams, powered by data magic! 💻✨"</h3>
 
