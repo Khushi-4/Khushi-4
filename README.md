@@ -86,6 +86,7 @@
   </a>
 </p>
 
+
 <!-- Tools -->
 <h4>Tools</h4>
 <p align="left">
@@ -106,6 +107,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Khushi-4&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-4&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" src="https://github.com/Khushi-4/Khushi-4/blob/main/honeypie.gif" width="150" alt="Frustrated Tech GIF" />
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Khushi-4&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
@@ -116,6 +119,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khushi-4&theme=default_repocard&hide_border=false)<br/>
 <img align="right" src="https://github.com/Khushi-4/Khushi-4/blob/main/coffee-is-love.gif" width="150" alt="Frustrated Tech GIF" />
 
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khushi-4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
@@ -123,3 +128,5 @@
 [![](https://visitcount.itsvg.in/api?id=Khushi-4&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://raw.githubusercontent.com/your-username/your-repository-name/output/snake.svg)
+
